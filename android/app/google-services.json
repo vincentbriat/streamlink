@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "210613663534",
+    "firebase_url": "https://searchstream-cd98f.firebaseio.com",
+    "project_id": "searchstream-cd98f",
+    "storage_bucket": "searchstream-cd98f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210613663534:android:f5e67a6c0999a78955ecbf",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210613663534-bv6t7u8eoofevqr7qomikcs2o9f2uiu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6xyyf_jna_mKEBS22FCaPx9BV1M2sLHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210613663534-bv6t7u8eoofevqr7qomikcs2o9f2uiu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210613663534:android:4d569a3cbbc6da6955ecbf",
+        "android_client_info": {
+          "package_name": "com.BSquare.StreamLink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210613663534-bv6t7u8eoofevqr7qomikcs2o9f2uiu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6xyyf_jna_mKEBS22FCaPx9BV1M2sLHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210613663534-bv6t7u8eoofevqr7qomikcs2o9f2uiu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
